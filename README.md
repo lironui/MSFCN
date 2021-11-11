@@ -14,7 +14,7 @@ If our code is helpful to you, please cite:
 
 Acknowlegement:
 ------- 
-Thanks to the providers of the folloing open-source datasets:
+Thanks to the providers of the following open-source datasets:
 
 [WHDLD](https://sites.google.com/view/zhouwx/dataset?authuser=0#h.p_ebsAS1Bikmkd)
 

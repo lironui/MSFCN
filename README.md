@@ -10,7 +10,7 @@ The related repositories include:
 
 If our code is helpful to you, please cite:
 
-`Li, R., Zheng, S., Duan, C. *, Wang, L., & Zhang, C. (2021). Land Cover Classification from Remote Sensing Images Based on Multi-Scale Fully Convolutional Network. Geo-spatial Information Science.`
+`Li, R., Zheng, S., Duan, C., Wang, L., & Zhang, C. (2021). Land Cover Classification from Remote Sensing Images Based on Multi-Scale Fully Convolutional Network. Geo-spatial Information Science.`
 
 Acknowlegement:
 ------- 

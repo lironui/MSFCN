@@ -1,4 +1,4 @@
-# Multi-Scale Fully Convolutional Network
+# Land Cover Classification from Remote Sensing Images Based on Multi-Scale Fully Convolutional Network
 
 ⭐ [Welcome to my HomePage](https://lironui.github.io/) ⭐ 
 
